@@ -1,0 +1,12 @@
+doc1:	le chat noir dort paisiblement dans la maison
+doc2:	la maison de campagne est grande spacieuse et tres belle
+doc3:	le chien brun court joyeusement dans le jardin
+doc4:	cette belle maison possede un grand jardin avec une terrasse
+doc5:	le jardin fleuri entoure la vieille maison de pierre
+doc6: 	un chat gris et un chien noir jouent ensemble dans le jardin
+doc7: 	la terrasse en bois donne sur un magnifique jardin fleuri
+doc8: 	le petit chat dort sur la terrasse toute la journee
+doc9: 	la maison moderne a une belle terrasse et un grand garage
+doc10:	le chien garde la maison pendant que le chat se promene
+doc11: 	un jardin bien entretenu avec des fleurs et des arbres fruitiers
+doc12: 	la vieille maison en pierre a ete renovee avec gout et elegance
